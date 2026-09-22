@@ -1,4 +1,3 @@
-Here's your complete README — copy the whole thing, swap just **2 placeholders** (email + LinkedIn), and you're done:
 
 ````markdown
 ## Hi, I'm Avinaash 👋
