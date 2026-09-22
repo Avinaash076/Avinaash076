@@ -1,16 +1,30 @@
-## Hi there 👋
+Here's your complete README — copy the whole thing, swap just **2 placeholders** (email + LinkedIn), and you're done:
 
-<!--
-**Avinaash076/Avinaash076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````markdown
+## Hi, I'm Avinaash 👋
 
-Here are some ideas to get you started:
+Full-Stack Developer who enjoys building complete web applications —
+from responsive, user-friendly frontends to scalable backend systems and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Portfolio:** [View my work](https://portfolio-mu-navy-ktj85g78gj.vercel.app/)
+- 📫 **Email:** [youremail@gmail.com](mailto:avinashmunavalli522@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-username]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/avinaash-m-832a33279/))
+
+---
+
+### 🛠 Tech Stack
+
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git&theme=dark)
+
+**Frontend:** React · JavaScript · TypeScript · Tailwind CSS
+**Backend:** Node.js · Express · REST APIs
+**Database:** MYSQL,MongoDB
+**Tools:** Git · Postman · VS Code
+
+---
+
+### 📊 GitHub Stats
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Avinaash076&show_icons=true&hide_border=true&theme=transparent" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinaash076&layout=compact&hide_border=true&theme=transparent" />
+````
