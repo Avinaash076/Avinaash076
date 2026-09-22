@@ -11,9 +11,10 @@ from responsive, user-friendly frontends to scalable backend systems and APIs.
 
 ---
 
-### 🛠 Tech Stack
+🛠 Tech Stack
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git&theme=dark)
+
+Frontend: React · TypeScript · Tailwind CSSBackend: Node.js · Express · REST APIsDatabase: MongoDBTools: Git · Postman · VS Code
 
 **Frontend:** React · JavaScript · TypeScript · Tailwind CSS
 **Backend:** Node.js · Express · REST APIs
